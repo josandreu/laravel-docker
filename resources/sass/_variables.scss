@@ -1,0 +1,63 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+/**
+ * Brand colors
+ */
+$color-brand: #2196f3;
+$color-brand-light: #6ec6ff;
+$color-brand-dark: #0069c0;
+$color-secondary: #f44336;
+$color-secondary-light: #ff7961;
+$color-secondary-dark: #ba000d;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+$c-blue: #007bff !default;
+$c-indigo: #6610f2 !default;
+$c-purple: #6f42c1 !default;
+$c-pink: #e83e8c !default;
+$c-red: #dc3545 !default;
+$c-orange: #fd7e14 !default;
+$c-yellow: #ffc107 !default;
+$c-green: #28a745 !default;
+$c-teal: #20c997 !default;
+$c-cyan: #17a2b8 !default;
+
+/**
+* Grey Scale
+* This is mainly to hold back designers from adding 200 different greys ;)
+*/
+$black: rgb(0,0,0);
+$darkergrey: lighten(black, 20%);
+$darkgrey: lighten(black, 30%);
+$grey: lighten(black, 45%);
+$lightgrey: lighten(black, 75%);
+$lightergrey: lighten(black, 90%);
+$white: rgb(255,255,255);
+$c-white: #fff !default;
+$c-gray-100: #f8f9fa !default;
+$c-gray-200: #e9ecef !default;
+$c-gray-300: #dee2e6 !default;
+$c-gray-400: #ced4da !default;
+$c-gray-500: #adb5bd !default;
+$c-gray-600: #6c757d !default;
+$c-gray-700: #495057 !default;
+$c-gray-800: #343a40 !default;
+$c-gray-900: #212529 !default;
+$c-black: #000 !default;
+
